@@ -1,5 +1,12 @@
+import Product from './components/products'
+
 function App() {
-	return <></>
+	return (
+		<>
+			{' '}
+			<Product />
+		</>
+	)
 }
 
 export default App
